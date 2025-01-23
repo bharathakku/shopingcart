@@ -17,45 +17,45 @@ function App() {
   const [products, setProducts] = useState([
     {
       title: "Camera",
-      Image: "./src/img/eos-r10-24-2-r10-canon-original-imagg42fsbgv79da.webp",
+      Image: "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/y/f/u/-original-imah2h4mkhhyzgdx.jpeg?q=70",
       price: 1500
     },
     {
       title: "Airdopes",
-      Image: "./src/img/-original-imah4fhupx4s3nxw.webp",
+      Image: "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/3/k/n/-original-imah4fhupx4s3nxw.jpeg?q=70",
       price: 3000
     },
     {
       title: "Headphone",
-      Image: "/src/img/-original-imah388mvfzxm2u8.webp",
+      Image: "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/y/f/-original-imahy3uqgtzmdsge.jpeg?q=70",
       price: 3300
     },
     {
       title: "boat",
-      Image: "/src/img/-original-imagz5z4cknamu9d.webp",
+      Image: "https://rukminim2.flixcart.com/image/612/612/ksw4ccw0/headphone/w/g/r/rockerz-450-boat-original-imag6cqqh49wjfy5.jpeg?q=70",
       price: 4000
     },
     {
       title: "Headphone",
-      Image: "/src/img/8-sorak-creation-original-imah2gxgcengkphk.webp",
+      Image: "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/v/k/v/-original-imah3am86gzrvr6g.jpeg?q=70",
       price: 2300
     }
     ,
     {
       title: "Realme Headphone",
-      Image: "/src/img/-original-imahy3uqgtzmdsge.webp",
+      Image: "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/6/9/j/-original-imah388mvfzxm2u8.jpeg?q=70",
       price: 2100
     }
     ,
     {
       title: "Headphone",
-      Image: "/src/img/-original-imahf4qppx6fkxtw.webp",
+      Image: "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/l/y/z/-original-imah8bfrgyny3xuh.jpeg?q=70",
       price: 1800
     }
     ,
     {
       title: "Airpods",
-      Image: "/src/img/-original-imah3dwf6xjtzk7d.webp",
+      Image: "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/s/g/s/-original-imahfqxuzd987pvu.jpeg?q=70",
       price: 2600
     }
     
